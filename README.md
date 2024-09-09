@@ -3,7 +3,7 @@ I am a btech final year student.<br>Iam learning Java full stack development.<br
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chetankansal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chetan-kansal2004) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ck_6193) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kansalchetan007) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chetankansal__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chetan-kansal2004) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/ck_6193) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kansalchetan007) 
 
 
 # 💻 Tech Stack:
