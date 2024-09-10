@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a final-year BTech student passionate about Java full stack development.<br> My expertise includes building dynamic frontend applications using JavaScript, React, and Redux, as well as robust backend systems with Java and Spring Boot.<br> I enjoy turning ideas into real-life projects, such as a fully functional shopping cart application.<br> I'm currently seeking internship and fresher job opportunities where I can apply my skills and continue to grow as a developer.
 
 
